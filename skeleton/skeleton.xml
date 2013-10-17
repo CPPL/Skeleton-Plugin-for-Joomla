@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="search">
+        <name>plg_group_skeleton</name>
+        <author>My Name</author>
+        <creationDate>October 2013</creationDate>
+        <copyright>Copyright (C) 2013 My Name or My Company. All rights reserved.</copyright>
+        <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+        <authorEmail>me@mydomain.com</authorEmail>
+        <authorUrl>www.mydomain.com</authorUrl>
+        <version>1.0.0</version>
+        <description>PLG_GROUP_SKELETON_XML_DESCRIPTION</description>
+        <files>
+                <filename plugin="categories">skeleton.php</filename>
+                <folder>languages</folder>
+        </files>
+        <config>
+                <fields name="params">
+ 
+                        <fieldset name="basic">
+                                <field name="textfield" type="text"
+                                        default="50"
+                                        description="PLG_SKELETON_TEXTFIELD_DESC"
+                                        label="PLG_SKELETON_TEXTFIELD_LABEL"
+                                />
+                                <field name="radiobuttons" type="radio"
+                                        default="0"
+                                        description="PLG_SKELETON_RADIOBTNS_DESC"
+                                        label="PLG_SKELETON_RADIOBTNS_LABEL"
+                                >
+                                        <option value="0">JOFF</option>
+                                        <option value="1">JON</option>
+                                </field>
+                        </fieldset>
+ 
+                </fields>
+        </config>
+</extension>
