@@ -7,7 +7,7 @@ It includes all the base files and a languages folder with easily replaced "skel
 
 Getting started
 ---------------
-Download the files or fork the repository.
+Download the files ([zip][3]) or fork the repository.
 
 ####Replace Plugin Type and Name####
 Make a copy of the files and using your favourite editor search and replace on the following to turn it into a starting point for your plugin.
@@ -42,3 +42,4 @@ So, for example if you have a `content` plugin with this name element in the XML
 
 [1]: http://docs.joomla.org/Plugin/Events
 [2]: http://docs.joomla.org
+[3]: https://github.com/cppl/Skeleton-Plugin-for-Joomla/archive/master.zip
