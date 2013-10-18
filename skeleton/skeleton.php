@@ -2,7 +2,7 @@
 // no direct access
 defined( '_JEXEC' ) or die( 'Restricted access' );
  
-class plgGroupSkeleton extends JPlugin
+class plgPlg-GroupSkeleton extends JPlugin
 {
 /**
  * @access      protected

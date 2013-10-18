@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="2.5" type="plugin" group="search">
-        <name>plg_group_skeleton</name>
+<extension version="2.5" type="plugin" group="plg-group">
+        <name>plg_plg-group_skeleton</name>
         <author>My Name</author>
         <creationDate>October 2013</creationDate>
         <copyright>Copyright (C) 2013 My Name or My Company. All rights reserved.</copyright>
@@ -8,7 +8,7 @@
         <authorEmail>me@mydomain.com</authorEmail>
         <authorUrl>www.mydomain.com</authorUrl>
         <version>1.0.0</version>
-        <description>PLG_GROUP_SKELETON_XML_DESCRIPTION</description>
+        <description>PLG_PLG-GROUP_SKELETON_XML_DESCRIPTION</description>
         <files>
                 <filename plugin="categories">skeleton.php</filename>
                 <folder>languages</folder>
