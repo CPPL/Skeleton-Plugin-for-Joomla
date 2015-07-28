@@ -19,13 +19,13 @@
                         <fieldset name="basic">
                                 <field name="textfield" type="text"
                                         default="50"
-                                        description="PLG_SKELETON_TEXTFIELD_DESC"
-                                        label="PLG_SKELETON_TEXTFIELD_LABEL"
+                                        description="PLG_PLG-GROUP_SKELETON_TEXTFIELD_DESC"
+                                        label="PLG_PLG-GROUP_SKELETON_TEXTFIELD_LABEL"
                                 />
                                 <field name="radiobuttons" type="radio"
                                         default="0"
-                                        description="PLG_SKELETON_RADIOBTNS_DESC"
-                                        label="PLG_SKELETON_RADIOBTNS_LABEL"
+                                        description="PLG_PLG-GROUP_SKELETON_RADIOBTNS_DESC"
+                                        label="PLG_PLG-GROUP_SKELETON_RADIOBTNS_LABEL"
                                 >
                                         <option value="0">JOFF</option>
                                         <option value="1">JON</option>
