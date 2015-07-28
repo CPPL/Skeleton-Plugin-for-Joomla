@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="2.5" type="plugin" group="plg-group">
+<extension version="2.5" type="plugin" group="plg-group" method="upgrade">
         <name>plg_plg-group_skeleton</name>
         <author>My Name</author>
         <creationDate>October 2013</creationDate>
