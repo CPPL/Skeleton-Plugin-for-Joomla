@@ -2,8 +2,8 @@
 <extension version="2.5" type="plugin" group="plg-group" method="upgrade">
         <name>plg_plg-group_skeleton</name>
         <author>My Name</author>
-        <creationDate>October 2013</creationDate>
-        <copyright>Copyright (C) 2013 My Name or My Company. All rights reserved.</copyright>
+        <creationDate>M YYYY</creationDate>
+        <copyright>Copyright (C) YYYY Me or My Company. All rights reserved.</copyright>
         <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
         <authorEmail>me@mydomain.com</authorEmail>
         <authorUrl>www.mydomain.com</authorUrl>
