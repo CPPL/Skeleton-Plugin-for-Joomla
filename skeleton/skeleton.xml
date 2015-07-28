@@ -11,7 +11,7 @@
         <description>PLG_PLG-GROUP_SKELETON_XML_DESCRIPTION</description>
         <files>
                 <filename plugin="skeleton">skeleton.php</filename>
-                <folder>languages</folder>
+                <folder>language</folder>
         </files>
         <config>
                 <fields name="params">
