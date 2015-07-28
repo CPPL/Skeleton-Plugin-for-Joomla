@@ -10,7 +10,7 @@
         <version>1.0.0</version>
         <description>PLG_PLG-GROUP_SKELETON_XML_DESCRIPTION</description>
         <files>
-                <filename plugin="categories">skeleton.php</filename>
+                <filename plugin="skeleton">skeleton.php</filename>
                 <folder>languages</folder>
         </files>
         <config>
