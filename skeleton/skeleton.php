@@ -5,7 +5,7 @@ defined( '_JEXEC' ) or die( 'Restricted access' );
 class plgPlg-GroupSkeleton extends JPlugin
 {
 /**
- * @access      protected
+ * @access      public
  * @param       object  $subject The object to observe
  * @param       array   $config  An array that holds the plugin configuration
  */
