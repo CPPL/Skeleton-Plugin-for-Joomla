@@ -12,20 +12,25 @@ Download the files ([zip][3]) or [fork][4] the repository.
 ####Replace Plugin Type and Name####
 Make a copy of the files and using your favourite editor do a **case sensitive** search and replace on the following to turn it into a starting point for your plugin.
 
+_In this order:_
+
 - `plg-group` should be replaced by the plugins group (e.g. `content`)
 - `PLG-GROUP` should be replaced by the plugins group<br />(note the all caps for language token keys is a Joomla style).
-- `Plg-Group` should be replaced by the plugins group<br />(note CamelCase for class/method names is a Joomla style).
-- `plg-group` should be replaced by the plugins group (e.g. `content`)
-- `_skeleton` should be replaced by your `pluginName`<br />(usually something indicative of the functionality e.g. `embedtweet`)
+- `Plg-Group` should be replaced by the plugins group (e.g. `Content`)<br />(note CamelCase for class/method names is a Joomla style).
+- `_skeleton` should be replaced by your `_pluginName`<br />(usually something indicative of the functionality e.g. `_embedtweet`)
 - Replace `skeleton` with your `pluginName` 
     - `skeleton.php` with the name of your plugins main file e.g. `embedtweet.php`
     - `plugin="skeleton"` should change to `plugin="pluginName"` e.g. `plugin="embedtweet"`
-- `_SKELETON` should also be replaced by your plugins name
+- `_SKELETON` should also be replaced by your plugins name (e.g. `_EMBEDTWEET`)
+- `Skeleton Plugin` with the human name of your plugin (e.g. `Embed Tweet Plugin`)
+- `Skeleton` with class name of your plugin (e.g. `EmbedTweet`)
 - `Copyright (C) YYYY Me or My Company` with your details e.g. `Copyright © 2015 Craig Phillips Pty Ltd`
 - `My Name` with your name e.g. `Craig Phillips`
 - `me@mydomain.com` with your email address (or support email address).
 - `www.mydomain.com` with your website e.g. [www.craigphillips.biz](http://www.craigphillips.biz)
 - `M YYYY` with the creation month and year e.g. `JULY 2015`
+
+Finally do a case insensitive search for `skeleton` to find any remnants that may exist in sample text.
 
 [Plugin groups][1] are defined on the [Joomla Doc's website][2].
 
