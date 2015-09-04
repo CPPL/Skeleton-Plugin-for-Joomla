@@ -1,7 +1,14 @@
 <?php
 // no direct access
 defined( '_JEXEC' ) or die( 'Restricted access' );
- 
+/**
+ *
+ * @author My Name
+ * @copyright Copyright (C) YYYY Me or My Company - All rights reserved.
+ * @license http://www.gnu.org/copyleft/gpl.html GNU/GPL, see LICENSE file
+ *
+ */
+
 class plgPlg-GroupSkeleton extends JPlugin
 {
 /**
